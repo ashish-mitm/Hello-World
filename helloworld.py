@@ -1,4 +1,4 @@
-def fun():
+def fun(i):
   pass
   
 #main
